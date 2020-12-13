@@ -10,6 +10,8 @@
  &#8226; FOr the registration and send e-mail i build a SpringBoot api and MySQL database .
  <br>
  &#8226;I use anime.min.js for my animations.
+ <br>
+ &#8226;I use netlify to host https://trusting-liskov-92f32a.netlify.app/
 </p>
 
 
