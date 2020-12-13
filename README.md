@@ -11,7 +11,9 @@
  <br>
  &#8226;I use anime.min.js for my animations.
  <br>
- &#8226;I use netlify to host https://trusting-liskov-92f32a.netlify.app/
+ &#8226;I use netlify to host   <span>
+  <a href="https://github.com/BenjaminMustafa/" rel="nofollow"><img src="https://camo.githubusercontent.com/68fdf3a4247ab60fc0fffc0b5e51d27d84d25e80315042a0983c348c81f14c55/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d266c6162656c436f6c6f723d353035303530266d6573736167653d7765627369746526636f6c6f723d253233303037364436267374796c653d666c6174266c6f676f3d676f6f676c652d6368726f6d65266c6f676f436f6c6f723d253233303037364436" alt="website" data-canonical-src="https://img.shields.io/static/v1?label=&amp;labelColor=505050&amp;message=website&amp;color=%230076D6&amp;style=flat&amp;logo=google-chrome&amp;logoColor=%230076D6" style="max-width:100%;"></a>
+  </span>
 </p>
 
 
