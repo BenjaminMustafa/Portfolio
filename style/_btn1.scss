@@ -1,0 +1,105 @@
+.btn3 {
+    display: inline-block;
+	padding: 10px 30px;
+	color: white;
+	font-size: 2rem;
+	text-transform: uppercase;
+	letter-spacing: .1rem;
+	margin-top: 30px;
+	transition: .3s ease;
+    transition-property: background-color, color;
+    text-decoration: none;
+    font-size: 10px;
+    overflow: hidden;
+    transition: 1s;
+    background-color: var(--main-color);
+    border-bottom-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    animation: blink 6s ease-in infinite;
+}
+.btn3:hover {
+	color: white;
+        background: var(--second-color);
+        box-shadow: 
+            0 0 5px var(--second-color),
+            0 0 20px var(--second-color),
+            0 0 80px var(--second-color),
+            0 0 160px var(--second-color);
+            transition-delay: 0.3s;
+}
+
+
+
+
+
+
+
+
+
+
+
+.btn {
+    display: inline-flex;
+    gap: 3rem;
+    padding-left: 5.5rem;
+}
+
+
+
+.btn1 {
+    position: relative;
+    display: block;
+    padding: 15px 30px;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    text-decoration: none;
+    font-size: 10px;
+    overflow: hidden;
+    transition: 1s;
+    background-color: var(--main-color);
+    border-bottom-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    animation: blink 6s ease-in infinite;
+
+}
+.btn1:hover {
+    color: black;
+    background: var(--main-color);
+    box-shadow: 
+        0 0 5px var(--main-color),
+        0 0 20px var(--main-color),
+        0 0 80px var(--main-color),
+        0 0 160px var(--main-color);
+        transition-delay: 0.3s;
+        
+    }
+
+    .btn2 {
+        position: relative;
+        display: block;
+        padding: 15px 30px;
+        color: black;
+        text-transform: uppercase;
+        letter-spacing: 15px;
+        text-decoration: none;
+        font-size: 10px;
+        overflow: hidden;
+        transition: 1s;
+        background-color: var(--second-color);
+        border-bottom-left-radius: 1rem;
+        border-top-right-radius: 1rem;
+        animation: blink 6s ease-in infinite;
+    
+    }
+    .btn2:hover {
+        color: black;
+        background: var(--second-color);
+        box-shadow: 
+            0 0 5px var(--second-color),
+            0 0 20px var(--second-color),
+            0 0 80px var(--second-color),
+            0 0 160px var(--second-color);
+            transition-delay: 0.3s;
+            
+        }

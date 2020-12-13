@@ -1,0 +1,29 @@
+@media only screen and (min-width: 1100px){
+    #header .hamburger{
+        display: none;
+    }
+    #header .nav-list ul {
+        position: initial;
+        display: block;
+        height: auto;
+        width: fit-content;
+        background-color: transparent;
+    }
+    #header .nav-list ul li{
+        display: inline-block;
+        align-items: center;
+        justify-content: center;
+    }
+    #header .nav-list ul li a {
+        font-size: 1rem;
+        padding: 10px;
+        margin-top: 8px;
+        
+        
+    }
+    #header .nav-list ul a::after {
+        display: none;
+    }
+
+
+}

@@ -1,0 +1,62 @@
+#whattheysaid {
+    background-color: var(--grey-color);
+    height: auto;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#whattheysaid .whattheysaid {
+    flex-direction: column;
+    text-align: center;
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 100px 0;
+}
+#whattheysaid .whattheysaid-title {
+    font-size: 4rem;
+    font-weight: 300;
+    color: black;
+    margin-bottom: 10 px;
+    text-transform: uppercase;
+    letter-spacing: .2rem;
+    text-align: center;
+}
+#whattheysaid .whattheysaid-title span {
+    color: var(--main-color);
+}
+#whattheysaid .whattheysaid-top p {
+    font-size: 1;
+    margin-top: 5px;
+    font-weight: 300px;
+    letter-spacing: .05rem;
+}
+#whattheysaid .whattheysaid-bottom {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#whattheysaid .whattheysaid-item {
+    flex-basis: 80%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: var(--second-color);
+    background-size: cover;
+    margin: 10px 5%;
+}
+#whattheysaid .whattheysaid-item h2 {
+    font-size: 1.2rem;
+    color: var(--main-color);
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+#whattheysaid .whattheysaid-item p {
+    color: white;
+    text-align: left;
+    font-size: 1rem;
+}
